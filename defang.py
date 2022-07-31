@@ -1,6 +1,6 @@
-from asyncio import DatagramTransport
-from asyncio.windows_events import NULL
-from unittest import result
+# from asyncio import DatagramTransport
+# from asyncio.windows_events import NULL
+# from unittest import result
 
 def defang(ip:str) -> str:
     result_ip = ''
