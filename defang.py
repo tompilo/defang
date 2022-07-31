@@ -43,5 +43,3 @@ while begin.lower() == "yes":
         print("U r not choose yet...")
     
     begin = input("Do u want to defang again? [yes/no]\n")
-
-# again = input("Do u want to defang again ? [yes/no]")
