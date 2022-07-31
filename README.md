@@ -1,6 +1,6 @@
 # Defang
 
-This simple tools for defang the IP or URL using python
+This simple tool for defang the IP or URL using python
 
 ```
 tompilo@tompilo:/mnt/c/Users/tomy_/Documents/Knowledges/Python$ python3 defang.py
