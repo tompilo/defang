@@ -3,7 +3,7 @@
 This simple tool for defang the IP or URL using python
 
 ```
-tompilo@tompilo:/mnt/c/Users/tomy_/Documents/Knowledges/Python$ python3 defang.py
+tompilooo@tompilooo:/mnt/c/Users/tomy_/Documents/Knowledges/Python$ python3 defang.py
 What do u want to defang ? [IP/URL]
 IP
 Input your IP:
